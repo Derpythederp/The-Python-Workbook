@@ -5,7 +5,7 @@ Self written answers for learning Python the Hard Way 3.
 *Only use sparingly for code pattern reference as some code are either written in non PEP 8 standard, or could be written better.*  
 Also note that I went for smart solutions over tedious.  
   
-<img src="assets/learningpythonthehardway.jpg" alt="Learning Python 3 The Hard Way" style="margin:auto;border:5px solid grey;width:50%" width="500" height="700" >
+<img src="assets/ThePythonWorkbook.jpg" alt="The Python Workbook: A Brief Introduction with Exercises and Solutions" style="margin:auto;border:5px solid grey;width:50%" width="500" height="700" >
 
 ## If you haven't for some odd reason, have Python 3 installed you can:
 ### For Mac Users:
