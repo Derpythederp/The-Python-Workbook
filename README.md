@@ -1,7 +1,7 @@
-# LP3THW
+# The Python Workbook: A Brief Introduction with Exercises and Solutions
 ## Seek solutions but not the answers...
 
-Self written answers for learning Python the Hard Way 3.  
+Self written answers for The Python Workbook: A Brief Introduction with Exercises and Solutions.  
 *Only use sparingly for code pattern reference as some code are either written in non PEP 8 standard, or could be written better.*  
 Also note that I went for smart solutions over tedious.  
   
